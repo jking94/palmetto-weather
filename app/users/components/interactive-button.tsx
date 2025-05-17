@@ -3,7 +3,7 @@ import React from 'react'
 
 const InteractiveButton = () => {
   return (
-    <button onClick={()=> console.log('Clicking')}>Button</button>
+    <button onClick={()=> console.log('Changing to ensure Git connectivity')}>Button</button>
   )
 }
 
